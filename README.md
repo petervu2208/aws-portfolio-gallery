@@ -1,4 +1,4 @@
-I was planning to add more different AWS or Cloud course related to showcase but due to time constrained and IRL duties(school and work), I will complete some time in the future
+I was planning to add/change applications or tools in AWS or Cloud course related to showcase my experience but due to time constrained issues. This will be a future project I will complete in soon future.
 
 # aws-portfolio-gallery
 SMC Courses Images Gallery
@@ -11,7 +11,7 @@ A simple and modern portfolio website hosted on AWS that displays course modules
 - S3 (image storage)
 - Application Load Balancer (ALB)
 - Auto Scaling Group
-- CloudWatch monitoring (?)
+- CloudWatch monitoring ()
 
 ## Features
 - Clickable module system
