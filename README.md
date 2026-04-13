@@ -1,5 +1,6 @@
 I was planning to add/change applications or tools in AWS to showcase my skills, but due to time constrained issues, I won't be able to. This will be a future project that I will finish in the near future.
 
+ec2-54-227-183-173.compute-1.amazonaws.com
 CS79CPortfolioALB-1473748136.us-east-1.elb.amazonaws.com
 
 # aws-portfolio-gallery
